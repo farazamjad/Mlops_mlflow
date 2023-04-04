@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/0/25ea1b6992af402180542d0d729d780b/artifacts
+end_time: 1680637819309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ea1b6992af402180542d0d729d780b
+run_name: judicious-hound-599
+run_uuid: 25ea1b6992af402180542d0d729d780b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680637816982
+status: 3
+tags: []
+user_id: ali

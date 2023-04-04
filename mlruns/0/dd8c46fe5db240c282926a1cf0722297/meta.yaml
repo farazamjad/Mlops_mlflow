@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/0/dd8c46fe5db240c282926a1cf0722297/artifacts
+end_time: 1680637865112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd8c46fe5db240c282926a1cf0722297
+run_name: amazing-bass-16
+run_uuid: dd8c46fe5db240c282926a1cf0722297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680637862821
+status: 3
+tags: []
+user_id: ali

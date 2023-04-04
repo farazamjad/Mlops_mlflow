@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/0/4731ae7628ab43fc9e750af61aee2927/artifacts
+end_time: 1680637796693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4731ae7628ab43fc9e750af61aee2927
+run_name: redolent-cat-11
+run_uuid: 4731ae7628ab43fc9e750af61aee2927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680637794382
+status: 3
+tags: []
+user_id: ali

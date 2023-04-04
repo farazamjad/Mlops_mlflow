@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/0/f9ba23a4a9e543eba0c7b891422b1f19/artifacts
+end_time: 1680640518023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9ba23a4a9e543eba0c7b891422b1f19
+run_name: languid-chimp-371
+run_uuid: f9ba23a4a9e543eba0c7b891422b1f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680640517973
+status: 3
+tags: []
+user_id: ali

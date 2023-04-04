@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/0/2885ee2bd6b54ff9a9283c0bcef35d98/artifacts
+end_time: 1680640637553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2885ee2bd6b54ff9a9283c0bcef35d98
+run_name: awesome-shrimp-931
+run_uuid: 2885ee2bd6b54ff9a9283c0bcef35d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680640634946
+status: 3
+tags: []
+user_id: ali

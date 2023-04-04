@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ali/Desktop/mlopppss/classtask_mlflow/mlruns/540364121173488447/f4a1b25f3dac460ab7642be4e90099d5/artifacts
+end_time: 1680641459175
+entry_point_name: ''
+experiment_id: '540364121173488447'
+lifecycle_stage: active
+run_id: f4a1b25f3dac460ab7642be4e90099d5
+run_name: amazing-doe-979
+run_uuid: f4a1b25f3dac460ab7642be4e90099d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680641456607
+status: 3
+tags: []
+user_id: ali
