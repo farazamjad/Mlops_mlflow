@@ -16,7 +16,7 @@ After model is trained and saved we will use the following command to initialize
 
 Then navigate to https://localhost:5000
 
-The below screenshots shows our model runs and performance metrics
+The below screenshots show our model run and performance metrics
 
 
 <img width="1792" alt="Screenshot 2023-04-05 at 2 14 54 AM" src="https://user-images.githubusercontent.com/81928514/229924878-42781ab0-196e-4f68-87ac-55805780c0ea.png">
