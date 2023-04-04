@@ -4,15 +4,15 @@ I used logistic regression ML model to predict if a person has diabetes or not u
 
 To integrate with mlflow firstly we need to install mlflow using following command:
 
-**pip install mlflow**
+<pre><code>pip install mlflow</pre></code>
 
 The next step is to run the mlflow_app.py file using the command:
 
-**python mlops.py**
+  <pre><code>python mlops.py</pre></code>
 
 After model is trained and saved we will use the following command to initialize mlflow:
 
-**mlflow ui**
+  <pre><code>mlflow ui</pre></code>
 
 Then navigate to https://localhost:5000
 
